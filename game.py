@@ -17,7 +17,7 @@ import random
 print("Welcome to the guessing game!")
 player_name = input("What's your name? ")
 print(f"{player_name}, I'm thinking of a number between 1 and 100.")
-# print("Try to guess my number.")
+print("Try to guess my number.")
 
 # num = random.randint(1, 100)
 
